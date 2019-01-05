@@ -5,4 +5,6 @@ For a point in the solution to be valid it must have no values in corresponding 
 
 An output should return true or false.
 
-example: qcheck({4, 2, 7, 3, 6, 8, 5, 1}) => true
+example: 
+qcheck({4, 2, 7, 3, 6, 8, 5, 1}) => true
+qcheck({5, 3, 1, 4, 2, 8, 6, 3}) => false
