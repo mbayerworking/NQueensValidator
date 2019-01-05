@@ -1,0 +1,8 @@
+NQueens Validator
+Create an program which checks to see if the given solution is a valid NQueens solution.
+
+For a point in the solution to be valid it must have no values in corresponding rows and diagonals.
+
+An output should return true or false.
+
+example: qcheck({4, 2, 7, 3, 6, 8, 5, 1}) => true
